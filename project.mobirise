@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "index.html",
-    "name": "Szkola",
+    "currentPage": "page8.html",
+    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,11 +27,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 59,
-    "versionPublish": "4.6.4",
+    "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -652,7 +650,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/20170406-112438-1400x1050.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20170406-112438-1398x1050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -671,7 +669,7 @@
           },
           "title": "LEGO MINDSTORM",
           "text": "Jesteśmy jednymi z najlepszych w Polsce w te klocki. Ogrom tytułów, także tych międzynarodowych. A to wszystko nasi uczniowie!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page7.html#header1-1f\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/robotyka\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "_tags": [
             "Theme"
           ],
@@ -756,7 +754,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-169928-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pexels-photo-169929-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -775,7 +773,7 @@
             }
           },
           "title": "FOTOKLUB \"POZYTYW\"",
-          "text": "<p>Działający przy naszej szkole Bieruński Fotoklub \"Pozytyw\" pozwoli realizować się każdemu zapalonemu fanowi filmu i fotografii.</p>",
+          "text": "<p>Działający przy naszej szkole Bieruński Fotoklub \"Pozytyw\" pozwoli realizować się każdemu zapalonemu fanu filmu i fotografii.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1459,7 +1457,7 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "alt": "",
                 "caption": "LipDub&nbsp;\"A Little Party Never Killed Nobody\" Fergie",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1547,7 +1545,7 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "alt": "",
                 "caption": "\"Filthy\" 2B - 2017/18",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -1673,7 +1671,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "FULL SCREEN INTRO",
+          "title": "LEGO<br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
