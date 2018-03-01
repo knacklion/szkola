@@ -1,6 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 
 
 
@@ -411,6 +414,13 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header1-w .mbr-section-lead {
+  text-align: center;
+  font-size: 24px;
+}
+#header1-w .mbr-section-title {
+  font-family: 'Lora', serif;
+}
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -476,6 +486,12 @@ h6,
 #header3-g .mbr-section-subtitle {
   text-align: center;
 }
+#header3-g .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#content2-h B {
+  font-size: 20px;
+}
 #features4-j .card-subtitle {
   color: #bcbcbc;
 }
@@ -486,6 +502,17 @@ h6,
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
   text-align: center;
+}
+#header3-q .mbr-section-title {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box3-1q .mbr-section-title,
+#msg-box3-1q p {
+  color: #000;
+}
+#msg-box3-1q .lead P {
+  font-size: 20px;
 }
 #features1-v .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #282828;
@@ -558,6 +585,13 @@ h6,
 #header1-13 .mbr-section-title {
   color: #28324e;
 }
+#msg-box3-1n .mbr-section-title,
+#msg-box3-1n p {
+  color: #000;
+}
+#msg-box3-1n .mbr-section-title {
+  font-size: 20px;
+}
 #ext_menu-10 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -620,7 +654,14 @@ h6,
   color: #c0a375!important;
 }
 #header1-14 .mbr-section-title {
-  color: #ffffff;
+  color: #6ef595;
+}
+#msg-box3-1r .mbr-section-title,
+#msg-box3-1r p {
+  color: #000;
+}
+#msg-box3-1r .mbr-section-title {
+  font-size: 20px;
 }
 #ext_menu-11 .hide-buttons .nav-btn {
   display: none !important;
@@ -684,7 +725,14 @@ h6,
   color: #c0a375!important;
 }
 #header1-15 .mbr-section-title {
-  color: #c1c1c1;
+  color: #9a72da;
+}
+#msg-box3-1s .mbr-section-title,
+#msg-box3-1s p {
+  color: #000;
+}
+#msg-box3-1s .mbr-section-title {
+  font-size: 20px;
 }
 #ext_menu-12 .hide-buttons .nav-btn {
   display: none !important;
@@ -746,6 +794,16 @@ h6,
 #ext_menu-12 .link[aria-expanded="true"],
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-16 .mbr-section-title {
+  color: #f7da64;
+}
+#msg-box3-1t .mbr-section-title,
+#msg-box3-1t p {
+  color: #000;
+}
+#msg-box3-1t .mbr-section-title {
+  font-size: 20px;
 }
 #ext_menu-1a .hide-buttons .nav-btn {
   display: none !important;
@@ -871,4 +929,14 @@ h6,
 #ext_menu-1k .link[aria-expanded="true"],
 #ext_menu-1k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-1l .mbr-section-title {
+  color: #af1589;
+}
+#msg-box3-1u .mbr-section-title,
+#msg-box3-1u p {
+  color: #000;
+}
+#msg-box3-1u .mbr-section-title {
+  font-size: 20px;
 }
