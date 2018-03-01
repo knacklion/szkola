@@ -497,7 +497,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/da-vinci-vitruve-luc-viatour-1-600x815.jpg",
+              "src": "@PROJECT_PATH@/assets/images/biblio-572x422.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
