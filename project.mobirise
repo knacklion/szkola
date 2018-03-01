@@ -430,7 +430,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JĘZYKI OBCE<br><span style=\"font-weight: normal;\">W NASZEJ SZKOLE</span>",
-          "text": "<p>&nbsp;W naszej szkole nikt nie narzuci Ci wyboru języka obcego, ani poziomu na jakim chcesz się go uczyć - sam zapiszesz się na taki, jakim jesteś najbardziej zainteresowany!</p><p>Do wyboru masz: angielski, hiszpański, francuski, rosyjski i niemiecki. </p><p><b>W każdej klasie – bez względu na profil - możesz wybrać język angielski na poziomie rozszerzonym!</b></p>",
+          "text": "<p>&nbsp;W naszej szkole nikt nie narzuci Ci wyboru języka obcego, ani poziomu, na jakim chcesz się go uczyć. Tylko u nas zapiszesz się na ten, którym jesteś najbardziej zainteresowany!</p><p>Do wyboru masz: angielski, hiszpański, francuski, rosyjski i niemiecki. </p><p><b>W każdej klasie – bez względu na profil - możesz wybrać język angielski na poziomie rozszerzonym!</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -624,7 +624,7 @@
             }
           },
           "title": "PRACOWNIA 3D",
-          "text": "Jest to unikalna w skali Polski sala dydaktyczna w której odbywają się zajęcia z wykorzystaniem technologii 3D: projektora multimedialnego 3D, mikroskopów, kamer i drukarki. Możliwość obserwacji doświadczeń i zjawisk przyrodniczych w tej technologii daje niezapomniane wrażenie i spełnia najwyższe oczekiwania dydaktyczne.",
+          "text": "Jest to unikalna w skali Polski sala dydaktyczna, w której odbywają się zajęcia z wykorzystaniem technologii 3D: projektora multimedialnego, mikroskopów, kamer i drukarki. Możliwość obserwacji doświadczeń i zjawisk przyrodniczych w tej technologii daje niezapomniane wrażenia i spełnia najwyższe oczekiwania dydaktyczne.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_tags": [
             "Theme"
@@ -677,7 +677,7 @@
             }
           },
           "title": "EEG BIOFEEDBACK",
-          "text": "<p>Każdemu uczniowi gwarantujemy bezpłatny dostęp do nowoczesnego gabinetu specjalnej pomocy edukacyjnej, w której specjalistyczna terapia prowadzona przez wykwalifikowanego trenera EEG Biofeedback, poprawia pracę mózgu w taki sposób, by pracował on szybciej i wydajniej. </p>",
+          "text": "<p>Każdemu uczniowi gwarantujemy bezpłatny dostęp do nowoczesnego gabinetu specjalistycznej pomocy edukacyjnej, w której terapia, prowadzona przez wykwalifikowanego trenera EEG Biofeedback, poprawia pracę mózgu w taki sposób, by pracował on szybciej i wydajniej. </p>",
           "_tags": [
             "Theme"
           ],
