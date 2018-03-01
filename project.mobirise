@@ -464,7 +464,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-271667-600x397.jpg",
+              "src": "@PROJECT_PATH@/assets/images/o-bridge-900-600x428.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -475,7 +475,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/23-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/9458312-operacja-900-554-600x368.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -486,7 +486,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-574071-600x397.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cerni-1-600x393.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -497,21 +497,24 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-373465-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/da-vinci-vitruve-luc-viatour-1-600x815.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.google.pl/search?q=Cz%C5%82owiek+witruwia%C5%84ski&client=firefox-b&dcr=0&stick=H4sIAAAAAAAAAONgFuLQz9U3MMlJN1PiBLGMLC1SLLX4HYtKMotLQvKBdHl-UTYA0thu9SgAAAA&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi60t2r18vZAhUDmbQKHXLUBrcQ_AUICigB&biw=2230&bih=915#imgdii=R25aeUOLYd0-QM:&imgrc=NSB9CU8scXR3cM:",
               "alt": "",
               "title": ""
             }
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ionic2datasharing-2-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media6": {
@@ -522,21 +525,21 @@
               "active": true
             }
           },
-          "title1": "Klasa politechniczna",
+          "title1": "KLASA &nbsp;POLITECHNICZNA",
           "subtitle1": "(mat-fiz-opi)",
-          "caption1": "Przedmioty rozszerzone:<br>-matematyka<br>-fizyka<br><br>Przedmiot dodatkowy:<br>-obsługa programów inżynierskich",
-          "title2": "Klasa przyrodnicza",
+          "caption1": "<b>Przedmioty rozszerzone:</b><br>-matematyka<br>-fizyka<br><br>Przedmiot dodatkowy:<br>-obsługa programów inżynierskich",
+          "title2": "KLASA &nbsp;PRZYRODNICZA",
           "subtitle2": "(biol-chem)",
-          "caption2": "Przedmioty rozszerzone:<br>-biologia<br>-chemia<br><br>Przedmioty dodatkowe:<br>-fizyka medyczna<br>-łacina",
-          "title3": "Klasa akademicka",
+          "caption2": "<b>Przedmioty rozszerzone:</b><br>-biologia<br>-chemia<br><br>Przedmioty dodatkowe:<br>-fizyka medyczna<br>-łacina",
+          "title3": "KLASA &nbsp;AKADEMICKA",
           "subtitle3": "(mat-fiz-inf)",
-          "caption3": "Przedmioty rozszerzone:<br>-matematyka<br>-fizyka<br>-informatyka",
-          "title4": "Klasa humanistyczna",
+          "caption3": "<b>Przedmioty rozszerzone:</b><br>-matematyka<br>-fizyka<br>-informatyka",
+          "title4": "KLASA &nbsp;HUMANISTYCZNA",
           "subtitle4": "(pol-his-wos)",
-          "caption4": "Przedmioty rozszerzone:<br>-język polski<br>-wiedza o społeczeństwie<br>-historia<br><br>Przedmioty dodatkowe:<br>-łacina<br><br>",
-          "title5": "Klasa społeczna",
+          "caption4": "<b>Przedmioty rozszerzone:</b><br>-język polski<br>-wiedza o społeczeństwie<br>-historia<br><br>Przedmioty dodatkowe:<br>-łacina<br><br>",
+          "title5": "KLASA &nbsp;SPOŁECZNA",
           "subtitle5": "(pol-biol)",
-          "caption5": "Przedmioty rozszerzone:<br>-język polski<br>-biologia<br><br>Przedmiot dodatkowy:<br>-matematyka praktyczna",
+          "caption5": "<b>Przedmioty rozszerzone:</b><br>-język polski<br>-biologia<br><br>Przedmiot dodatkowy:<br>-matematyka praktyczna",
           "title6": "Klasa MAT-GEO-ANG",
           "subtitle6": "(mat-geo-ang)",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
