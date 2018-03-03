@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -888,7 +888,7 @@
           },
           "title": "LEGO MINDSTORM",
           "text": "Jesteśmy jednymi z najlepszych w Polsce w te klocki. Zdobyliśmy już ogrom tytułów, także międzynarodowych. Może chcesz pomajstrować z nami? Poznaj szczegóły! Zapraszamy!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20171126osiagnieciatallin\" data-toolbar=\"-mbrBtnMove\">TALLIN'17</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/szkolabl/videos/221816538330248/\" data-toolbar=\"-mbrBtnMove\">ROBOTY W KACJI</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/robotyka\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20171126osiagnieciatallin\" data-toolbar=\"-mbrBtnMove\">TALLIN'17</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/szkolabl/videos/221816538330248/\" data-toolbar=\"-mbrBtnMove\">ROBOTY W AKCJI</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/robotyka\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "_tags": [
             "Theme"
           ],
