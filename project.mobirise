@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page12.html",
+    "currentPage": "page11.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#fa2e24",
         "#050e96",
         "#bfcecb",
         "#b60a08",
         "#f2f338",
         "#f7f264",
-        "#240d59",
-        "#282828"
+        "#240d59"
       ]
     },
     "versionFirst": "3.12.1",
@@ -3257,8 +3257,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
           },
-          "title": "<br>ROBOTYKA<br>LEGO<br>MY",
-          "text": "<br><b>Zaczęło się skromnie... &nbsp;dwa&nbsp;</b><b>pudełka&nbsp;</b><b>klocków lego,</b><br><b>ale&nbsp;</b><b>&nbsp;już wkrótce zaczęły się sukcesy, zarówno krajowe jak i międzynarodowe.</b><br><b>W zawodach krajowych zawsze podium, a w turniejach&nbsp;</b><b>międzynarodowych wpierw był ćwierćfinał w Wiedniu (2016)</b><b>,</b><br><b> a później wicemistrzostwo Europy (Tallin 2017).</b><br><b>I ciągle się rozwijamy... .</b><b><br></b><br>",
+          "title": "<br>ROBOTYKA<br>LEGO<br>I &nbsp;MY",
+          "text": "<br><b>Zaczęło się skromnie... &nbsp;dwa&nbsp;</b><b>pudełka&nbsp;</b><b>klocków Lego Mindstorms,</b><br><b>ale&nbsp;</b><b>&nbsp;już wkrótce zaczęły się sukcesy, zarówno krajowe jak i międzynarodowe.</b><br><b>W zawodach krajowych zawsze podium, a w turniejach&nbsp;</b><b>międzynarodowych wpierw był ćwierćfinał w Wiedniu (2016)</b><b>,</b><br><b> a później wicemistrzostwo Europy (Tallin 2017).</b><br><b>I ciągle się rozwijamy... .</b><b><br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20171126osiagnieciatallin\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/wiktoria-wiedenska34\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20170507lego-kopia\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.facebook.com/szkolabl/videos/221816538330248/\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/robotyka\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>  ",
           "_tags": [
             "Theme"
@@ -3269,10 +3269,10 @@
               "color": "#b60a08"
             },
             ".mbr-section-lead": {
-              "color": "#b60a08"
+              "color": "#fa2e24"
             },
             ".mbr-section-lead B": {
-              "color": "#b60a08",
+              "color": "#fa2e24",
               "font-size": "25px"
             }
           },
