@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page11.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 124,
+    "uniqCompNum": 128,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -168,7 +168,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-e"
         },
@@ -1201,7 +1201,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-z"
         },
@@ -1435,7 +1435,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-10"
         },
@@ -1669,7 +1669,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-11"
         },
@@ -1903,7 +1903,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-12"
         },
@@ -2137,7 +2137,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1a"
         },
@@ -2201,170 +2201,169 @@
           "_anchor": "gallery1-1e"
         },
         {
-          "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
-            "spacing": "0",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "filterBgColor": true,
-            "bgColor": "#000000",
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
             "showText": true,
             "filter": false,
             "images": [
               {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-30-16-598225.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-36-5-918246.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/UZG2y2fo6RA",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
                 "alt": "",
-                "caption": "LipDub \"A Little Party Never Killed Nobody\" Fergie",
+                "caption": "LO Bieruń LipDub \"A Little Party Never Killed Nobody\" Fergie",
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-32-6-521212.jpg",
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-37-25-86462.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/0MKkKqp2ezM",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "alt": "",
                 "caption": "LO Bieruń is also happy",
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-33-23-591185.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/nLuoEdU8F5A",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "\"Don't you need somebody\" 1C - 2016/17",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-34-17-152848.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/5xRauiQ9Lrk",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "\"Don't you need somebody\" 1B - 2016/17",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-35-8-463192.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/6nSLjOpsZ0s",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "\"Don't you need somebody\" 1A - 2016/17",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-36-6-207475.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/KKyNfTSENGY",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "\"Filthy\" 1A -2017/18",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-37-21-6368.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/VXgWZartZ8Y",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "\"Filthy\" 1B -2017/18",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-38-4-241805.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/UlUtVnvrqfM",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "\"Filthy\" 1C -2017/18",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-39-31-837790.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/SM12wbPEUg0",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "\"Filthy\" 2B -2017/18",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-15-46-36-355263.jpg",
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-38-32-413545.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/-mcnmE0JFd0",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
                 "alt": "",
-                "caption": "Grease Lipdub 2016",
+                "caption": "LO Bieruń&nbsp;Grease Lipdub",
                 "active": false
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-16-10-0-127586.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-43-7-657392.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=CkBd7AtHcRw",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "alt": "",
+                "caption": "Harlem Shake LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-44-10-782177.jpg",
                 "playVideo": true,
                 "videoUrl": "https://youtu.be/BRaNdHcfxqE",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
                 "alt": "",
                 "caption": "MIME THROUGH TIME in my mom's car! BROOM BROOM!",
                 "active": false
               },
               {
-                "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-16-20-5-256854.jpg",
+                "tags": "Beautiful",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-46-36-901997.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=CkBd7AtHcRw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "videoUrl": "https://youtu.be/6nSLjOpsZ0s",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "alt": "",
-                "caption": "Harlem Shake LO Bieruń ",
-                "active": true
+                "caption": "\"Don't you need somebody\" 1A LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-48-11-499833.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/5xRauiQ9Lrk",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "alt": "",
+                "caption": "\"Don't you need somebody\" 1B LO Bieruń",
+                "active": false
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-16-14-33-628222.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-49-6-246550.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/nLuoEdU8F5A",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "\"Don't you need somebody\" 1C LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-50-17-503788.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/KKyNfTSENGY",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "\"Filthy\" &nbsp;1A LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-51-26-525935.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/VXgWZartZ8Y",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "\"Filthy\" &nbsp;1B LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-52-14-544408.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/UlUtVnvrqfM",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "\"Filthy\" &nbsp;1C LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-53-3-575483.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/SM12wbPEUg0",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "\"Filthy\" &nbsp;2B LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-0-14-54-5-992306.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=NoHT0JtUnyU",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "alt": "",
-                "caption": "M Δ T F I Z I N F",
-                "active": false
+                "caption": "MATFIZINF LO Bieruń",
+                "active": true
               }
             ]
           },
+          "articleLayout": false,
+          "allItem": "All",
           "_tags": [
             "Theme"
           ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-2z"
+          "_name": "gallery1",
+          "_anchor": "gallery1-3j"
         }
       ]
     },
@@ -2457,7 +2456,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1k"
         },
@@ -2691,7 +2690,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2u"
         },
@@ -2894,7 +2893,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-30"
         },
@@ -2918,8 +2917,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
           },
-          "title": "<br>MULTIMEDIALNA &nbsp;PRACOWNIA PRZYRODNICZA &nbsp;3D",
-          "text": "<br><b>Podczas zajęć w tej pracowni zamiast tradycyjnego: \"otwórzcie podręczniki\" usłyszysz od nauczyciela polecenie: \"Proszę założyć okulary\".<br>Po chwili znajdziesz się we wnętrzu żyły, w głębi oka, staniesz naprzeciw wirusa Ebola albo zajrzysz pod powierzchnię oceanu.\n<br>Wszystko bez konieczności ruszania się z klasy. Ta supernowoczesna pracownia, mogąca w jednej chwili zmienić się w kino 3D jest jedną z najnowocześniejszych sal dydaktycznych w regionie, pozwalającą w jednej chwili odbyć podróże w czasie i przestrzeni oraz zaglądać w miejsca tak niedostępne jak np. wnętrze bijącego serca. Realistycznemu, trójwymiarowemu obrazowi towarzyszyć będzie przestrzenny dźwięk.</b><br>",
+          "title": "<br>MULTIMEDIALNA &nbsp;PRACOWNIA &nbsp;3D",
+          "text": "<br><b>Podczas zajęć w tej pracowni zamiast tradycyjnego: \"otwórzcie podręczniki\" usłyszysz od nauczyciela polecenie: \"Proszę założyć okulary\".<br>Po chwili znajdziesz się we wnętrzu żyły, w głębi oka, staniesz </b><br><b>naprzeciw wirusa Ebola albo zajrzysz pod powierzchnię oceanu.\n<br>Wszystko bez konieczności ruszania się z klasy. Ta supernowoczesna pracownia, mogąca w jednej chwili zmienić się w kino 3D jest jedną z najnowocześniejszych sal dydaktycznych w regionie, pozwalającą w jednej chwili odbyć podróże </b><br><b>w czasie i przestrzeni oraz zaglądać w miejsca tak niedostępne jak np. wnętrze bijącego serca. Realistycznemu, trójwymiarowemu obrazowi towarzyszyć będzie przestrzenny dźwięk.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> ",
           "_tags": [
             "Theme"
@@ -3097,7 +3096,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-33"
         },
@@ -3141,6 +3140,72 @@
             }
           },
           "_anchor": "header1-34"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/11-1-800x600.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-1-800x600-781x561.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/15-1-800x521.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15-1-800x521-735x520.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/02-4-800x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/02-4-800x450-602x425.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/galen-1-800x535.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/galen-1-800x535-755x529.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3i"
         }
       ]
     },
@@ -3233,7 +3298,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-36"
         },
@@ -3242,7 +3307,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/y3c9mte3mczjad01mtm-src-12049-robotyka-1170x513.jpg",
@@ -3277,6 +3342,72 @@
             }
           },
           "_anchor": "header1-37"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/roboty4-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roboty4-1-2000x1500-800x568.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/roboty11-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roboty11-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/roboty3-12-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roboty3-12-2000x1125-800x580.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/roboty10-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/roboty10-2000x1500-800x600.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3h"
         }
       ]
     },
@@ -3369,7 +3500,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-38"
         },
