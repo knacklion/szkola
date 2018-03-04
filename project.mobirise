@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page7.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1031,7 +1031,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dsc-1077-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-1078-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1083,7 +1083,7 @@
             }
           },
           "text1": "<strong>Adres:</strong><br>Liceum Ogólnokształcące im. Powstańców Śląskich<br>ul. Licealna 17<br>43-150 Bieruń<br><br><br>\n<strong>Kontakt:</strong><br>\nemail: rjk@neostrada.pl<br>\ntel/fax: 32 216 40 60<br>\nwww: lobierun.edu.pl",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Linki:</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/sulobierun/\">Strona samorządu szkolnego</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Materiały fimowe</a></li><li><a class=\"text-white\" href=\"https://www.youtube.com/channel/UCXmy_ZEQln43zxICVJOFWNg\">eLO Bieruń TV</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Linki:</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/sulobierun/\">Strona samorządu szkolnego</a></li><li><a class=\"text-white\" href=\"page6.html#gallery1-1e\">Materiały fimowe</a></li><li><a class=\"text-white\" href=\"https://www.youtube.com/channel/UCXmy_ZEQln43zxICVJOFWNg\">eLO Bieruń TV</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -2149,7 +2149,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/s3-news-tmp-980-smartphone-407108-1920-2x1-940-1200x685.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/s3-news-tmp-980-smartphone-407108-1920-2x1-942-1200x685.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2700,10 +2700,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/elektroensefalografi-eeg-nedirgfdfhfgh-800x533.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/minding-anxiety-773x375.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2724,7 +2724,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#240d59"
             },
             ".mbr-section-lead": {
               "color": "#240d59"
