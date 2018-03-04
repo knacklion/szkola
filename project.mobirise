@@ -68,7 +68,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Cześć!",
-          "text": "Znajdujesz się na stronie rekrutacyjnej Liceum Ogólnokształcącego im. Powstańców Śląskich w Bieruniu! Niemożliwe, abyś trafi tu przypadkowo. Zapewne chcesz wybrać dla siebie idealną szkołę. A jak ją znaleźć? To bez wątpienia taka, która wesprze Cię w twoim rozwoju osobistym, doskonale przygotuje do matury i przyszłych studiów, a przede wszystkim zagwarantuje warunki do wspaniałego spędzenia większej części dnia - bo przecież aż tyle czasu spędzasz w szkole. \n<br><br>Zatem – nie szukaj dalej! Znalazłeś! Przekonaj się sam!<br>",
+          "text": "Znajdujesz się na stronie rekrutacyjnej Liceum Ogólnokształcącego im. Powstańców Śląskich w Bieruniu! Niemożliwe, abyś trafi tu przypadkowo. Zapewne chcesz wybrać dla siebie idealną szkołę. A jak ją znaleźć? To bez wątpienia taka, która wesprze Cię w twoim rozwoju osobistym, doskonale przygotuje do matury <br>i przyszłych studiów, a przede wszystkim zagwarantuje warunki do wspaniałego spędzenia większej części dnia - bo przecież aż tyle czasu spędzasz w szkole. \n<br><br>Zatem – nie szukaj dalej! Znalazłeś! Przekonaj się sam!<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">SZKOLNA PROCEDURA REKRUTACYJNA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://slaskie.edu.com.pl/kandydat/app/access_locked.html\" data-toolbar=\"-mbrBtnMove\">REKRUTACJA ELEKTRONICZNA VULCAN</a> ",
           "_tags": [
             "Theme"
@@ -226,7 +226,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><b>Nasza szkoła powstała w 1948 roku i jest jedną z najstarszych w regionie. Do tej pory jej mury opuściło przeszło 5000 absolwentów, w tym duża część naszej doskonale wyszkolonej kadry pedagogicznej, która gwarantuje sukces na maturze. Przyjazna i ciągle modernizowana placówka zapewni komfort i miłą atmosferę na całe trzy lata nauki!</b></blockquote>",
+          "text": "<blockquote><p><b>Nasza szkoła powstała w 1948 roku i jest jedną z najstarszych w regionie. Do tej pory jej mury opuściło przeszło 5000 absolwentów, w tym duża część naszej doskonale wyszkolonej kadry pedagogicznej, która gwarantuje sukces </b></p><p><b>na maturze. Przyjazna i ciągle modernizowana placówka zapewni komfort i miłą atmosferę na całe trzy lata nauki!</b></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -458,7 +458,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JĘZYKI OBCE<br>",
-          "text": "<p>&nbsp;W naszej szkole nikt nie narzuci Ci wyboru języka obcego, ani poziomu na jakim chcesz się go uczyć - sam zapiszesz się na taki, jakim jesteś najbardziej zainteresowany!</p><p>Do wyboru masz: angielski, francuski, hiszpański, niemiecki i rosyjski. </p><p><b>W każdej klasie – bez względu na profil - możesz wybrać język angielski na poziomie rozszerzonym!</b></p>",
+          "text": "<p>&nbsp;W naszej szkole nikt nie narzuci Ci wyboru języka obcego, ani poziomu na jakim chcesz się go uczyć - sam zapiszesz się na taki, jakim jesteś najbardziej zainteresowany!</p><p>Do wyboru masz: angielski, francuski, hiszpański, niemiecki i rosyjski. </p><p><b>W każdej klasie – bez względu na profil - możesz wybrać język angielski </b><b>na poziomie rozszerzonym!</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -733,7 +733,7 @@
             }
           },
           "title": "EEG BIOFEEDBACK",
-          "text": "<p>Każdemu uczniowi gwarantujemy bezpłatny dostęp do nowoczesnego gabinetu specjalistycznej pomocy edukacyjnej, w którym terapia prowadzona jest przez wykwalifikowanego trenera EEG Biofeedback. Poprawia ona pracę mózgu w taki sposób, by pracował szybciej i wydajniej. </p>",
+          "text": "<p>Każdemu uczniowi gwarantujemy bezpłatny dostęp do nowoczesnego gabinetu specjalistycznej pomocy edukacyjnej,&nbsp;<span style=\"font-size: 1.07rem;\">w którym terapia prowadzona jest przez wykwalifikowanego trenera EEG Biofeedback. Poprawia ona pracę mózgu w taki sposób, by pracował szybciej i wydajniej.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -1082,7 +1082,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Adres:</strong><br>Liceum Ogólnokształcące im. Powstańców Śląskich<br>ul. Licealna 17<br>43-150 Bieruń<br><br><br>\n<strong>Kontakt:</strong><br>\nemail: rjk@neostrada.pl<br>\ntel/fax: 32 216 40 60<br>\nwww: lobierun.edu.pl",
+          "text1": "<strong>Adres:</strong><br>Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br>ul. Licealna 17<br>43-150 Bieruń<br><br><br>\n<strong>Kontakt:</strong><br>\nemail: rjk@neostrada.pl<br>\ntel/fax: 32 216 40 60<br>\nwww: lobierun.edu.pl",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Linki:</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/sulobierun/\">Strona samorządu szkolnego</a></li><li><a class=\"text-white\" href=\"page6.html#gallery1-1e\">Materiały fimowe</a></li><li><a class=\"text-white\" href=\"https://www.youtube.com/channel/UCXmy_ZEQln43zxICVJOFWNg\">eLO Bieruń TV</a></li></ul>",
           "_tags": [
             "Theme"
