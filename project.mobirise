@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "page12.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#050e96",
+        "#bfcecb",
         "#b60a08",
         "#f2f338",
         "#f7f264",
         "#240d59",
-        "#282828",
-        "#2e2e2e",
-        "#232323"
+        "#282828"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 108,
+    "uniqCompNum": 124,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -101,7 +101,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -150,7 +150,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -599,11 +599,11 @@
           "title6": "Klasa MAT-GEO-ANG",
           "subtitle6": "(mat-geo-ang)",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page2.html#header1-13\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page3.html#header1-14\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page4.html#header1-15\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page5.html#header1-16\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html#header1-13\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html#header1-14\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page4.html#header1-15\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html#header1-16\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page8.html#gallery4-2h\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
@@ -681,7 +681,7 @@
           },
           "title": "PRACOWNIA 3D",
           "text": "Jest to unikalna w skali Polski sala dydaktyczna w której odbywają się zajęcia z wykorzystaniem technologii 3D: projektora multimedialnego 3D, mikroskopów, kamer i drukarki. Możliwość obserwacji doświadczeń i zjawisk przyrodniczych w tej technologii daje niezapomniane wrażenie i spełnia najwyższe oczekiwania dydaktyczne.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page9.html#gallery2-32\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -737,7 +737,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page7.html#gallery2-2y\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page7.html#gallery2-2y\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-26"
         },
@@ -786,7 +786,7 @@
           },
           "title": "KLINIKA ORTOPEDII \"GALEN\"&nbsp;",
           "text": "W ramach współpracy z Kliniką „GALEN” w Bieruniu uczestniczymy w zajęciach w gabinetach lekarskich, zabiegowych i na oddziałach szpitalnych. Poznajemy obsługę profesjonalnego sprzętu medycznego oraz mamy możliwość asystowania w prawdziwych zabiegach na sali operacyjnej..",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20170424profseptember\" data-toolbar=\"-mbrBtnMove\">ONI U NAS</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20180119wspolpracagalen\" data-toolbar=\"-mbrBtnMove\">MY U NICH</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -839,7 +839,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page6.html#header1-1d\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page6.html#header1-1d\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-19"
         },
@@ -888,7 +888,7 @@
           },
           "title": "LEGO MINDSTORM",
           "text": "Jesteśmy jednymi z najlepszych w Polsce w te klocki. Zdobyliśmy już ogrom tytułów, także międzynarodowych. Może chcesz pomajstrować z nami? Poznaj szczegóły! Zapraszamy!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20171126osiagnieciatallin\" data-toolbar=\"-mbrBtnMove\">TALLIN'17</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/szkolabl/videos/221816538330248/\" data-toolbar=\"-mbrBtnMove\">ROBOTY W AKCJI</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/robotyka\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -944,7 +944,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/groups/694474070583015/\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/groups/694474070583015/\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1g"
         },
@@ -993,7 +993,7 @@
           },
           "title": "ZAPLECZE SPORTOWE",
           "text": "Nawet zapaleni sportowcy znajdą coś dla siebie! Do ich dyspozycji oddajemy orlik, boisko wielofunkcyjne oraz siłownię na wolnym powietrzu!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/orlik\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.lobierun.edu.pl/orlik\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -1054,7 +1054,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.lobierun.edu.pl/20180110wszkoledziotwart\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.lobierun.edu.pl/20180110wszkoledziotwart\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2l",
           "_styles": {
@@ -1116,7 +1116,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Politechniczna",
-        "order": 7
+        "order": 11
       },
       "components": [
         {
@@ -1134,7 +1134,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1183,7 +1183,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -1225,7 +1225,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "KLASA POLITECHNICZNA",
+          "title": "KLASA POLITECHNICZNA<br><br>matematyka - fizyka<br>obsługa programów inzynierskich",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -1350,7 +1350,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Przyrodnicza",
-        "order": 6
+        "order": 10
       },
       "components": [
         {
@@ -1368,7 +1368,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1417,7 +1417,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -1459,7 +1459,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "KLASA PRZYRODNICZA<br>biologia - chemia - fizyka medyczna - łacina",
+          "title": "KLASA PRZYRODNICZA<br><br>biologia - chemia<br>fizyka medyczna - łacina",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -1584,7 +1584,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Akademicka",
-        "order": 5
+        "order": 9
       },
       "components": [
         {
@@ -1602,7 +1602,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1651,7 +1651,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -1693,7 +1693,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "KLASA &nbsp;AKADEMICKA<br>matematyka - fizyka - informatyka",
+          "title": "KLASA &nbsp;AKADEMICKA<br><br>matematyka - fizyka informatyka",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -1818,7 +1818,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Humanistyczna",
-        "order": 4
+        "order": 8
       },
       "components": [
         {
@@ -1836,7 +1836,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1885,7 +1885,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -1927,7 +1927,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "KLASA HUMANISTYCZNA<br>język polski - historia - wiedza o społeczeństwie - łacina",
+          "title": "KLASA HUMANISTYCZNA<br><br>język polski - historia &nbsp;wiedza o społeczeństwie łacina",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -2052,7 +2052,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "LipDub",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2070,7 +2070,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2119,7 +2119,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -2162,7 +2162,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<p>SZKOLNE &nbsp; &nbsp; LIPDUBY<br>i &nbsp;inne &nbsp;nasze filmy &nbsp;;-)</p>",
-          "text": "<br><b>Są tacy, którzy mówią o nas, że nic nie robimy tylko kręcimy filmy.\n<br>A nas po prostu kręci dobra zabawa,\n<br>która zupełnie nie przeszkadza nam w  osiąganiu sukcesów.\n<br>Bo kręci nas nauka i kręci nas zabawa \n<br> i to jest prawidziwy wymiar LOBieruń.</b>",
+          "text": "<br><b>Są tacy, którzy mówią o nas, że nic nie robimy tylko kręcimy filmy.\n<br>A nas na prawdę to kręci i&nbsp;zupełnie nie przeszkadza</b><br><b> w  osiąganiu sukcesów.\n<br>Bo kręci nas nauka i kręci nas zabawa&nbsp;<br> i to jest prawidziwy wymiar LOBieruń.</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -2372,7 +2372,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Klasa społeczna",
-        "order": 3
+        "order": 7
       },
       "components": [
         {
@@ -2390,7 +2390,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2439,7 +2439,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -2481,7 +2481,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "KLASA SPOŁECZNA<br>język polski - biologia - matematyka praktyczna",
+          "title": "KLASA SPOŁECZNA<br><br>język polski - biologia matematyka praktyczna",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -2606,7 +2606,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Biofeedback",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2624,7 +2624,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/robotyka\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.lobierun.edu.pl/download/rek_2018/rek_2018_19.pdf\">SZKOLNA PROCEDURA REKRUTACYJNA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2673,7 +2673,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "logo": {
@@ -2703,7 +2703,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/minding-anxiety-773x375.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/depositphotos-7649976-l-2015-1999x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -2802,6 +2802,622 @@
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-2y"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Pracownia 3D",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-na-10-stycznia-cz.1-114x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-30"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
+          },
+          "title": "<br>MULTIMEDIALNA &nbsp;PRACOWNIA PRZYRODNICZA &nbsp;3D",
+          "text": "<br><b>Podczas zajęć w tej pracowni zamiast tradycyjnego: \"otwórzcie podręczniki\" usłyszysz od nauczyciela polecenie: \"Proszę założyć okulary\".<br>Po chwili znajdziesz się we wnętrzu żyły, w głębi oka, staniesz naprzeciw wirusa Ebola albo zajrzysz pod powierzchnię oceanu.\n<br>Wszystko bez konieczności ruszania się z klasy. Ta supernowoczesna pracownia, mogąca w jednej chwili zmienić się w kino 3D jest jedną z najnowocześniejszych sal dydaktycznych w regionie, pozwalającą w jednej chwili odbyć podróże w czasie i przestrzeni oraz zaglądać w miejsca tak niedostępne jak np. wnętrze bijącego serca. Realistycznemu, trójwymiarowemu obrazowi towarzyszyć będzie przestrzenny dźwięk.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20180101wszkole3d\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead B": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "header1-31"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/3-4-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-4-2000x1125-800x524.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/24-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/24-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/25-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/25-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-32"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Galen",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-na-10-stycznia-cz.1-114x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-33"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/typical-medical-procedures-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
+          },
+          "title": "<br>WSPÓŁPRACA Z KLINIKĄ ORTOPEDII GALEN<br>W BIERUNIU",
+          "text": "<br><b>Dzięki zajęciom i wykładom organizowanym we współpracy z Kliniką Galen w Bieruniu nasi uczniowie dowiadują się m. in. o jakie jest zastosowanie ultradźwięków, zjawiska odbicia, załamania, interferencji, rozproszenia, absorpcji, odwrotnego zjawiska piezoelektrycznego, zjawiska Dopplera we współczesnej medycynie oraz jak działają nowoczesne urządzenia do diagnostyki medycznej. Dzięki przychylności prof. dr. hab. Krzysztofa Ficka (absolwenta LO w Bieruniu) nasi uczniowie mogą poczuć się jak lekarze i zrobić sobie nawzajem badanie USG, a nawet wziąć udział w prawdziwej operacji! Współpraca trwa od 2015 roku.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20171103wspolpracagalen\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20170104wspolpracagalen\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20170612galen\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/zajecia-w-galenie1\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20170424profseptember\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead B": {
+              "color": "#000000",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "header1-34"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Lego",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-na-10-stycznia-cz.1-114x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-36"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/y3c9mte3mczjad01mtm-src-12049-robotyka-1170x513.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
+          },
+          "title": "<br>ROBOTYKA<br>LEGO<br>MY",
+          "text": "<br><b>Zaczęło się skromnie... &nbsp;dwa&nbsp;</b><b>pudełka&nbsp;</b><b>klocków lego,</b><br><b>ale&nbsp;</b><b>&nbsp;już wkrótce zaczęły się sukcesy, zarówno krajowe jak i międzynarodowe.</b><br><b>W zawodach krajowych zawsze podium, a w turniejach&nbsp;</b><b>międzynarodowych wpierw był ćwierćfinał w Wiedniu (2016)</b><b>,</b><br><b> a później wicemistrzostwo Europy (Tallin 2017).</b><br><b>I ciągle się rozwijamy... .</b><b><br></b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20171126osiagnieciatallin\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/wiktoria-wiedenska34\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20170507lego-kopia\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.facebook.com/szkolabl/videos/221816538330248/\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/robotyka\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b60a08"
+            },
+            ".mbr-section-lead": {
+              "color": "#b60a08"
+            },
+            ".mbr-section-lead B": {
+              "color": "#b60a08",
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "header1-37"
+        }
+      ]
+    },
+    "page12.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "procedura",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-na-10-stycznia-cz.1-114x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-38"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "SZKOLNA PROCEDURA REKRUTACYJNA NA ROK SZKOLNY 2018/2019",
+          "meta": "Liceum Ogólnokształcące im. Powstańców Śląskich w Bieruniu",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><b>§ 1. Postanowienia ogólne</b></p><p><b><br></b></p><p><b>\n</b></p><p>1.\tSzkolna Procedura Rekrutacyjna nie dotyczy przyjęcia kandydata do szkoły w trakcie roku szkolnego.&nbsp;<span style=\"font-size: 1.07rem;\">W tym przypadku decyzję o przyjęciu do szkoły podejmuje dyrektor szkoły.</span></p><p>2.\tSzkolna Procedura Rekrutacyjna określa kryteria przyjmowania kandydatów do szkoły, tryb postępowania rekrutacyjnego, rodzaj dokumentów niezbędnych w postępowaniu rekrutacyjnym oraz zakres uprawnień i obowiązków Komisji Rekrutacyjnej.\n</p><p>3.\tRejestracja kandydatów do szkoły odbywa się w formie elektronicznej scentralizowanej.\n</p><p>4.\tRekrutacja do szkoły prowadzona jest na wolne miejsca. Informację o ofercie edukacyjnej szkoły, kryteriach rekrutacyjnych, liczbie wolnych miejsc na dany rok szkolny podaje do publicznej wiadomości dyrektor szkoły. Informacja umieszczana jest w systemie rekrutacji elektronicznej, na szkolnej stronie internetowej pod adresem www.lobierun.edu.pl oraz na tablicy ogłoszeń w holu głównym.\n</p><p>5.\tPostępowanie rekrutacyjne przeprowadza Szkolna Komisja Rekrutacyjna, powoływana przez dyrektora szkoły.\n</p><p>6.\tSzkoła prowadzi nabór w oparciu o zasadę powszechnej dostępności.\n</p><p>7.\tKandydatami ubiegającymi się o miejsce w szkole mogą być absolwenci gimnazjów bez względu na miejsce zamieszkania legitymujący się świadectwem ukończenia szkoły lub szkoły równorzędnej w przypadku kandydatów, którzy szkołę typu gimnazjalnego kończyli za granicą, na zasadach określonych w odrębnych przepisach.\n</p><p>8.\tW trakcie rekrutacji kandydaci mają prawo wskazać wszystkie oddziały z oferty edukacyjnej szkoły do którego chcą być przyjęci.\n</p><p>9.\tWe wniosku kandydaci wskazują oddział z oferty edukacyjnej szkoły do którego chcą być przyjęci lub oddziały określając jednocześnie oddział pierwszego wyboru, drugiego wyboru itd.\n</p><p>10.\tPostanowienia niniejszego regulaminu dotyczą wniosków, w których wskazano Liceum Ogólnokształcące im. Powstańców Śląskich w Bieruniu jako szkołę pierwszego wyboru.</p><p><br></p><p>\n</p><p><b>§ 2. Terminy rekrutacji</b></p><p><b><br></b></p><p><b>\n</b></p><p>1.\tod 18 maja do 18 czerwca 2018 r., w godzinach pracy sekretariatu szkoły, kandydat:\n</p><p>a.\trejestruje się w scentralizowanym rekrutacyjnym systemie elektronicznym wprowadzając wymagane dane,\n</p><p>b.\t generuje i drukuje wniosek o przyjęcie do klasy pierwszej szkoły, który podpisują jego rodzice,\n</p><p>c.\tskłada wydrukowany z scentralizowanego rekrutacyjnego systemu elektronicznego wniosek o przyjęcie do klasy pierwszej wraz z dokumentami potwierdzającymi spełnianie przez kandydata warunków i kryteriów branych pod uwagę w postępowaniu rekrutacyjnym do szkoły pierwszego wyboru\n</p><p>2.\tod 22 czerwca do 26 czerwca 2018 r., w godzinach pracy sekretariatu szkoły, kandydat dostarcza do szkoły pierwszego wyboru świadectwo ukończenia gimnazjum i zaświadczenia o wynikach egzaminu gimnazjalnego lub kopie tych dokumentów poświadczone przez dyrektora szkoły,\n</p><p>3.\t6 lipca 2018 r., o godz. 8 00 - podanie do publicznej wiadomości listy kandydatów zakwalifikowanych do szkoły ponadgimnazjalnej i listy osób niezakwalifikowanych do szkoły,\n</p><p>4.\tod 6 lipca do 12 lipca 2018 r., w godzinach pracy sekretariatu szkoły potwierdzenie przez rodzica kandydata woli przyjęcia do szkoły w postaci przedłożenia oryginału świadectwa ukończenia gimnazjum oraz oryginału zaświadczenia o wynikach egzaminu gimnazjalnego, o ile nie zostały one złożone we wcześniejszym terminie (patrz pkt 2).\n</p><p>5.\t13 lipca 2018 r., podanie do publicznej wiadomości listy kandydatów przyjętych i nieprzyjętych do szkoły.\n</p><p>6.\tJeżeli po przeprowadzeniu postępowania rekrutacyjnego szkoła nadal będzie posiadała wolne miejsca, Szkolna Komisja Rekrutacyjna przeprowadzi postępowanie uzupełniające, które kończy się z dniem 20 sierpnia 2018 r.\n</p><p>7.\tPostępowanie uzupełniające przeprowadza się na zasadach określonych w § 3.</p><p><br></p><p>\n</p><p><b>§ 3. Terminy rekrutacji uzupełniającej</b></p><p><b><br></b></p><p><b>\n</b></p><p>1.\tod 13 lipca do 17 lipca 2018 r., w godzinach pracy sekretariatu szkoły - kandydat składa wniosek o przyjęcie do klasy pierwszej szkoły wraz z dokumentami potwierdzającymi spełnianie przez kandydata warunków i kryteriów branych pod uwagę w postępowaniu rekrutacyjnym do szkoły pierwszego wyboru, w tym świadectwa ukończenia gimnazjum i zaświadczenia o wynikach egzaminu gimnazjalnego lub kopie tych dokumentów poświadczone przez dyrektora szkoły.\n</p><p>2.\t10 sierpnia 2018 r., o godz. 8 00 - podanie do publicznej wiadomości listy kandydatów zakwalifikowanych do szkoły ponadgimnazjalnej i listy osób niezakwalifikowanych do szkoły,\n</p><p>3.\tdo 13 sierpnia 2018 r., w godzinach pracy sekretariatu szkoły, potwierdzenie przez rodzica kandydata woli przyjęcia do szkoły w postaci przedłożenia oryginału świadectwa ukończenia gimnazjum oraz oryginału zaświadczenia o wynikach egzaminu gimnazjalnego, o ile nie zostały one złożone we wcześniejszym terminie,\n</p><p>4.\tdo 14 lipca 2018 r., podanie do publicznej wiadomości listy kandydatów przyjętych i nieprzyjętych do szkoły.\n</p><p><br></p><p><b>§ 4. Kryteria naboru</b></p><p><br></p><p>\n</p><p>1.\tO przyjęciu ucznia do szkoły decyduje łączna ilość punktów przyznana za:\n</p><p>a.\twyniki egzaminu gimnazjalnego, z zastrzeżeniem pkt 8,\n</p><p>b.\toceny z wybranych przedmiotów obowiązkowych realizowanych w gimnazjum,\n</p><p>c.\tukończenie gimnazjum z wyróżnieniem,\n</p><p>d.\tszczególne osiągnięcia wymienione na świadectwie ukończenia gimnazjum.\n</p><p>2.\tZasady przeliczania punktów za wyniki egzaminu gimnazjalnego, przy czym:\n</p><p>a.\tza egzamin z języka polskiego - 0,2 pkt za każdy uzyskany procent\n</p><p>b.\tza egzamin z historii i wiedzy o społeczeństwie - 0,2 pkt za każdy uzyskany procent\n</p><p>c.\tza egzamin z matematyki - 0,2 pkt za każdy uzyskany procent\n</p><p>d.\tza egzamin z przedmiotów przyrodniczych - 0,2 pkt za każdy uzyskany procent\n</p><p>e.\tza egzamin z języka obcego zdawanego na poziomie podstawowym - 0,2 pkt za każdy uzyskany procent\n</p><p>3.\tZasady przeliczania punktów za oceny z czterech przedmiotów, przy czym brane pod uwagę są oceny z: języka polskiego oraz 3 najlepsze oceny z przedmiotów: język obcy, matematyka, historia, geografia, wiedza o społeczeństwie, biologia, chemia, informatyka i fizyka, uzyskane na świadectwie ukończenia gimnazjum, przy czym:\n</p><p>a.\tza ocenę celującą-20 pkt\n</p><p>b.\tza ocenę bardzo dobrą - 16 pkt\n</p><p>c.\tza ocenę dobrą - 12 pkt\n</p><p>d.\tza ocenę dostateczną - 8 pkt\n</p><p>e.\tza ocenę dopuszczająca - 2 pkt\n</p><p>4.\tpunkty za świadectwo ukończenia gimnazjum z wyróżnieniem - 5 pkt\n</p><p>5.\tZasady przeliczania punktów za uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w pkt. 7 niniejszej procedury, przy czym za:\n</p><p>a.\tuzyskanie w zawodach wiedzy będących konkursem o zasięgu ponadwojewódzkim organizowanym przez kuratorów oświaty na podstawie zawartych porozumień:\n</p><p>• tytułu finalisty konkursu przedmiotowego - przyznaje się 10 punktów,\n</p><p>•\t tytułu laureata konkursu tematycznego lub interdyscyplinarnego - przyznaje się 7 punk<span style=\"font-size: 1.07rem;\">tów,</span></p><p>•\ttytułu finalisty konkursu tematycznego lub interdyscyplinarnego - przyznaje się 5 punk<span style=\"font-size: 1.07rem;\">tów,</span></p><p>b.\tuzyskanie w zawodach wiedzy będących konkursem o zasięgu wojewódzkim organizowanym przez kuratora oświaty:\n</p><p>•\t dwóch lub więcej tytułów finalisty konkursu przedmiotowego - przyznaje się 10 punk<span style=\"font-size: 1.07rem;\">tów,</span></p><p>•\tdwóch lub więcej tytułów laureata konkursu tematycznego lub interdyscyplinarnego -&nbsp;<span style=\"font-size: 1.07rem;\">przyznaje się 7 punktów,</span></p><p>•\tdwóch lub więcej tytułów finalisty konkursu tematycznego lub interdyscyplinarnego -&nbsp;<span style=\"font-size: 1.07rem;\">przyznaje się 5 punktów,</span></p><p>•\ttytułu finalisty konkursu przedmiotowego - przyznaje się 7 punktów,\n</p><p>•\ttytułu laureata konkursu tematycznego lub interdyscyplinarnego - przyznaje się 5 punk<span style=\"font-size: 1.07rem;\">tów,</span></p><p>•\ttytułu finalisty konkursu tematycznego lub interdyscyplinarnego - przyznaje się 3 punk<span style=\"font-size: 1.07rem;\">ty;</span></p><p>c.\tuzyskanie wysokiego miejsca w zawodach wiedzy innych niż wymienione w lit. a - b, artystycznych lub sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, na szczeblu:\n</p><p>•\tmiędzynarodowym - przyznaje się 4 punkty,\n</p><p>•\tkrajowym - przyznaje się 3 punkty,\n</p><p>•\twojewódzkim - przyznaje się 2 punkty,\n</p><p>•\tpowiatowym - przyznaje się 1 punkt.\n</p><p>d.\t W przypadku gdy kandydat ma więcej niż jedno szczególne osiągnięcie w zawodach wiedzy, artystycznych i sportowych, wymienione na świadectwie ukończenia gimnazjum, maksymalna liczba punktów możliwych do uzyskania za wszystkie osiągnięcia wynosi 13 punktów.\n</p><p>6.\tZa stałą działalność społeczną w charakterze wolontariusza - 2 pkt\n</p><p>7.\tLaureat lub finalista ogólnopolskiej olimpiady przedmiotowej oraz laureat konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, przeprowadzonych zgodnie z odrębnymi przepisami wydanymi są przyjmowani do szkoły w pierwszej kolejności, jeżeli posiadają świadectwo ukończenia gimnazjum.\n</p><p>8.\tW przypadku absolwentów gimnazjów zwolnionych z obowiązku przystąpienia do egzaminu gimnazjalnego przelicza się na punkty oceny z języka polskiego, matematyki, historii, wiedzy o społeczeństwie, biologii, chemii, fizyki, geografii i języka obcego nowożytnego, wymienione na świadec¬twie ukończenia gimnazjum, przy czym za uzyskanie z:\n</p><p>a.\tjęzyka polskiego i matematyki oceny wyrażonej w stopniu:\n</p><p>•\tcelującym - przyznaje się po 20 punktów,\n</p><p>•\tbardzo dobrym - przyznaje się po 16 punktów,\n</p><p>•\tdobrym - przyznaje się po 12 punktów,\n</p><p>•\tdostatecznym - przyznaje się po 8 punktów,\n</p><p>•\tdopuszczającym - przyznaje się po 2 punkty;\n</p><p>b.\thistorii i wiedzy o społeczeństwie oceny wyrażonej w stopniu:\n</p><p>•\tcelującym - przyznaje się po 20 punktów,\n</p><p>•\tbardzo dobrym - przyznaje się po 16 punktów,\n</p><p>•\tdobrym - przyznaje się po 12 punktów,\n</p><p>•\tdostatecznym - przyznaje się po 8 punktów,\n</p><p>•\tdopuszczającym - przyznaje się po 2 punkty;\n</p><p>oraz liczbę punktów uzyskaną po zsumowaniu punktów z tych zajęć edukacyjnych dzieli się przez 2;\n</p><p>c.\tbiologii, chemii, fizyki i geografii oceny wyrażonej w stopniu:\n</p><p>•\tcelującym - przyznaje się po 20 punktów,\n</p><p>•\tbardzo dobrym - przyznaje się po 16 punktów,\n</p><p>•\tdobrym - przyznaje się po 12 punktów,\n</p><p>•\tdostatecznym - przyznaje się po 8 punktów,\n</p><p>•\tdopuszczającym - przyznaje się po 2 punkty;\n</p><p>oraz liczbę punktów uzyskaną po zsumowaniu punktów z tych zajęć edukacyjnych dzieli się przez 4;\n</p><p>d.\tjęzyka obcego nowożytnego oceny wyrażonej w stopniu:\n</p><p>•\tcelującym - przyznaje się po 20 punktów,\n</p><p>•\tbardzo dobrym - przyznaje się po 16 punktów,\n</p><p>•\tdobrym - przyznaje się po 12 punktów,\n</p><p>•\tdostatecznym - przyznaje się po 8 punktów,\n</p><p>•\tdopuszczającym - przyznaje się po 2 punkty;\n</p><p>9.\tW przypadku osób zwolnionych z obowiązku przystąpienia do danego zakresu odpowiedniej części egzaminu gimnazjalnego lub danej części egzaminu gimnazjalnego przelicza się na punkty, w sposób określony wyżej, oceny wymienione na świadectwie ukończenia szkoły z zajęć edukacyjnych, z których jest przeprowadzany dany zakres odpowiedniej części egzaminu gimnazjalnego lub dana część egzaminu gimnazjalnego, których dotyczy zwolnienie.\n</p><p>10.\tW przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego przyjmuje się kandydatów z problemami zdrowotnymi, ograniczającymi możliwości wyboru kierunku kształcenia ze względu na stan zdr o-wia, potwierdzonymi opinią publicznej poradni psychologiczno-pedagogicznej, w tym publicznej poradni specjalistycznej.\n</p><p>11.\tW przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego lub jeżeli po zakończeniu tego etapu szkoła, nadal dysponuje wolnymi miejscami, na trzecim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:\n</p><p>a.\twielodzietność rodziny kandydata,\n</p><p>b.\tniepełnosprawność kandydata,\n</p><p>c.\tniepełnosprawność jednego z rodziców kandydata,\n</p><p>d.\tniepełnosprawność obojga rodziców kandydata,\n</p><p>e.\tniepełnosprawność rodzeństwa kandydata,\n</p><p>f.\tsamotne wychowywanie kandydata w rodzinie,\n</p><p>g.\tobjęcie kandydata pieczą zastępczą.\n</p><p>Kryteria o których mowa mają jednakowa wartość.\n</p><p>12.\tUczeń przybywający z zagranicy jest przyjmowany do szkoły i kwalifikowany do odpowiedniej klasy na podstawie dokumentów, jeżeli szkoła dysponuje wolnymi miejscami.\n</p><p>13.\tJeżeli uczeń przybywający z zagranicy nie może przedłożyć dokumentów, zostaje przyjęty do szkoły i zakwalifikowany do odpowiedniej klasy na podstawie rozmowy kwalifikacyjnej, której termin ustala dyrektor szkoły.\n</p><p>14.\tRozmowę kwalifikacyjną z uczniem przybywającym z zagranicy przeprowadza dyrektor szkoły, z udziałem pedagoga szkolnego i nauczycieli przedmiotów maturalnych, w tym przedmiotów realizowanych w klasie o miejsce w której ubiega się kandydat, według programu rozszerzonego. W rozmowie kwalifikacyjnej może uczestniczyć w charakterze obserwatora rodzic ucznia.\n</p><p>15.\tW przypadku ucznia przybywającego z zagranicy, który nie zna języka polskiego, rozmowę kwalifikacyjną przeprowadza się w języku obcym, którym posługuje się uczeń przybywający z zagranicy.\n</p><p>W razie potrzeby należy zapewnić w rozmowie kwalifikacyjnej udział osoby władającej językiem obcym, którym posługuje się uczeń przybywający z zagranicy.</p><p><br></p><p><span style=\"font-size: 1.07rem;\"><b>§ 5. Rekrutacja elektroniczna</b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">\n</span></p><p><span style=\"font-size: 1.07rem;\">1.\tSzkoła bierze udział w zcentralizowanej rekrutacji elektronicznej, a kandydaci wybierając szkołę\n</span></p><p><span style=\"font-size: 1.07rem;\">poddają się jej wszystkim rygorom.\n</span></p><p><span style=\"font-size: 1.07rem;\">2.\tPostępowanie rekrutacyjne składa się z następujących etapów:\n</span></p><p><span style=\"font-size: 1.07rem;\">a.\tzarejestrowanie kandydata w systemie elektronicznego naboru;\n</span></p><p><span style=\"font-size: 1.07rem;\">b.\tpostępowanie rekrutacyjne przeprowadzane przez Komisję Rekrutacyjną\n</span></p><p><span style=\"font-size: 1.07rem;\">c.\tpodanie do publicznej wiadomości, poprzez umieszczenie w widocznym miejscu w siedzibie szkoły listy kandydatów przyjętych i nieprzyjętych do szkoły;\n</span></p><p><span style=\"font-size: 1.07rem;\">d.\tpostępowanie odwoławcze;\n</span></p><p><span style=\"font-size: 1.07rem;\">e.\tpostępowanie uzupełniające, w przypadku, gdy po przeprowadzeniu podstawowej rekrutacji szkoła dysponuje nadal wolnymi miejscami.\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>§ 6. Dokumenty wymagane podczas rekrutacji</b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">\n</span></p><p><span style=\"font-size: 1.07rem;\">1.\tPodstawą udziału w postępowaniu rekrutacyjnym jest złożenie w szkole pierwszego wyboru, w terminach o których mowa w&nbsp;</span><span style=\"font-size: 1.07rem;\">§ 2:</span></p><p><span style=\"font-size: 1.07rem;\">a.\twniosku o przyjęcie do szkoły wraz z wymaganymi załącznikami,\n</span></p><p><span style=\"font-size: 1.07rem;\">b.\tświadectwa ukończenia szkoły,\n</span></p><p><span style=\"font-size: 1.07rem;\">c.\tzaświadczenia o szczegółowych wynikach egzaminu gimnazjalnego,\n</span></p><p><span style=\"font-size: 1.07rem;\">d.\t dokumentu potwierdzającego okoliczności, o których mowa w&nbsp;</span><span style=\"font-size: 1.07rem;\">§3 pkt 5 - jeśli dotyczy</span></p><p><span style=\"font-size: 1.07rem;\">e.\torzeczenia poradni psychologiczno - pedagogicznej o potrzebie kształcenia specjalnego - jeśli dotyczy\n</span></p><p><span style=\"font-size: 1.07rem;\">2.\tWniosek o którym mowa w pkt. 1, lit. a) pobiera się z programu elektronicznego obsługującego elektroniczną rekrutację scentralizowaną, dostępnego ze strony internetowej szkoły www.lobierun.edu.pl\n</span></p><p><span style=\"font-size: 1.07rem;\">3.\tWypełniony wniosek wraz z załącznikami składa się w terminie, o którym mowa w&nbsp;</span><span style=\"font-size: 1.07rem;\">§ 2 do szkoły pierwszego wyboru.</span></p><p><span style=\"font-size: 1.07rem;\">4.\tPrzewodniczący Komisji Rekrutacyjnej w terminie do 30 czerwca 2016 r. może zwrócić się do wójta /burmistrz/ prezydenta miasta właściwego ze względu na miejsce zamieszkania kandydata o potwierdzenie okoliczności przedstawionych w oświadczeniach rodzica/opiekuna.\n</span></p><p><span style=\"font-size: 1.07rem;\">5.\tOdmowa przedłożenia dokumentów, o które zwrócił się Przewodniczący Komisji Rekrutacyjnej jest równoznaczna z rezygnacją z udziału w rekrutacji, natomiast odmowa dostarczenia innych dokumentów pozbawia możliwości korzystania z pierwszeństwa przyjęcia określonego w kryteriach naboru.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">\n</span></p><p><span style=\"font-size: 1.07rem;\"><b>§ 7. Procedura odwoławcza</b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">\n</span></p><p><span style=\"font-size: 1.07rem;\">1.\tW terminie 7 dni od dnia podania do publicznej wiadomości listy kandydatów przyjętych i kandydatów nieprzyjętych, rodzic kandydata może wystąpić do Szkolnej Komisji rekrutacyjnej z wnioskiem o sporządzenie uzasadnienia odmowy przyjęcia kandydata do szkoły.\n</span></p><p><span style=\"font-size: 1.07rem;\">2.\tUzasadnienie sporządza komisja rekrutacyjna w terminie 5 dni od dnia wystąpienia z wnioskiem o uzasadnienie.\n</span></p><p><span style=\"font-size: 1.07rem;\">3.\tUzasadnienie zawiera przyczyny odmowy przyjęcia, w tym najniższą liczbę punktów, która uprawniała do przyjęcia, oraz liczbę punktów, którą kandydat uzyskał w postępowaniu rekrutacyjnym.\n</span></p><p><span style=\"font-size: 1.07rem;\">4.\tRodzic kandydata, w terminie 7 dni od dnia otrzymania uzasadnienia może wnieść do dyrektora szkoły odwołanie od rozstrzygnięcia Szkolnej Komisji Rekrutacyjnej. Obowiązuje forma pisemna.\n</span></p><p><span style=\"font-size: 1.07rem;\">5.\tDyrektor szkoły rozpatruje odwołanie od rozstrzygnięcia komisji rekrutacyjnej w terminie 7 dni od dnia otrzymania odwołania.\n</span></p><p><span style=\"font-size: 1.07rem;\">6.\tNa rozstrzygnięcie dyrektora służy skarga do sądu administracyjnego.\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>§ 8. Przepisy końcowe</b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">\n</span></p><p><span style=\"font-size: 1.07rem;\">1.\tZmiany do Procedury wprowadzane są na zasadach obowiązujących przy jej wprowadzeniu.\n</span></p><p><span style=\"font-size: 1.07rem;\">2.\tProcedura określona została na rok szkolny 2018/2019 i obowiązuje od dnia 28 lutego 2018 r.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3f"
         }
       ]
     }
