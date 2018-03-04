@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -69,7 +69,7 @@
           },
           "title": "Cześć!",
           "text": "Znajdujesz się na stronie rekrutacyjnej Liceum Ogólnokształcącego im. Powstańców Śląskich w Bieruniu! Niemożliwe, abyś trafi tu przypadkowo. Zapewne chcesz wybrać dla siebie idealną szkołę. A jak ją znaleźć? To bez wątpienia taka, która wesprze Cię w twoim rozwoju osobistym, doskonale przygotuje do matury i przyszłych studiów, a przede wszystkim zagwarantuje warunki do wspaniałego spędzenia większej części dnia - bo przecież aż tyle czasu spędzasz w szkole. \n<br><br>Zatem – nie szukaj dalej! Znalazłeś! Przekonaj się sam!<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://lobierun.bip.wizja.net.pl/doc/303/pliki/20180228/8cab996f2df1eee7c9ea4d7ee73c90ca\" data-toolbar=\"-mbrBtnMove\">SZKOLNA PROCEDURA REKRUTACYJNA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://slaskie.edu.com.pl/kandydat/app/access_locked.html\" data-toolbar=\"-mbrBtnMove\">REKRUTACJA ELEKTRONICZNA VULCAN</a> ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page12.html\" data-toolbar=\"-mbrBtnMove\">SZKOLNA PROCEDURA REKRUTACYJNA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://slaskie.edu.com.pl/kandydat/app/access_locked.html\" data-toolbar=\"-mbrBtnMove\">REKRUTACJA ELEKTRONICZNA VULCAN</a> ",
           "_tags": [
             "Theme"
           ],
@@ -392,7 +392,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "U nas możesz uczyć się: matematyki, fizyki, biologii, chemii, języka polskiego historii <br>oraz &nbsp;wiedzy &nbsp;o &nbsp;społeczeństwie &nbsp;<br>według programu rozszerzonego. <br>",
+          "title": "U nas możesz uczyć się: matematyki, fizyki, biologii, chemii, języka polskiego, historii <br>oraz &nbsp;wiedzy &nbsp;o &nbsp;społeczeństwie &nbsp;<br>według programu rozszerzonego. <br>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -1049,7 +1049,7 @@
               "size": 250
             }
           },
-          "title": "WSZYSTKO &nbsp;TO WIDZIELIŚCIE !",
+          "title": "A WSZYSTKO &nbsp;TO WIDZIELIŚCIE NA WŁASNE OCZY !",
           "text": "<p>W styczniu br. gościliśmy Was podczas Licealnego Dnia Doradztwa Edukacyjnego. Zapraszamy Was ponownie w maju tym razem Waszymi z rodzicami na Wiosenny Dzień Otwarty Szkoły!</p>",
           "_tags": [
             "Theme"
@@ -3323,7 +3323,7 @@
             "overlayOpacity": "0"
           },
           "title": "<br>ROBOTYKA<br>LEGO<br>I &nbsp;MY",
-          "text": "<br><b>Zaczęło się skromnie... &nbsp;dwa&nbsp;</b><b>pudełka&nbsp;</b><b>klocków Lego Mindstorms,</b><br><b>ale&nbsp;</b><b>&nbsp;już wkrótce zaczęły się sukcesy, zarówno krajowe jak i międzynarodowe.</b><br><b>W zawodach krajowych zawsze podium, a w turniejach&nbsp;</b><b>międzynarodowych wpierw był ćwierćfinał w Wiedniu (2016)</b><b>,</b><br><b> a później wicemistrzostwo Europy (Tallin 2017).</b><br><b>I ciągle się rozwijamy... .</b><b><br></b><br>",
+          "text": "<br><b>Zaczęło się skromnie... &nbsp;dwa&nbsp;</b><b>pudełka&nbsp;</b><b>klocków Lego Mindstorms,</b><br><b>ale&nbsp;</b><b>&nbsp;już wkrótce zaczęły się sukcesy, zarówno krajowe jak i międzynarodowe.</b><br><b>W zawodach krajowych zawsze na podium, a w turniejach&nbsp;</b><b>międzynarodowych wpierw był ćwierćfinał w Wiedniu (2016)</b><b>,</b><br><b> a później wicemistrzostwo Europy (Tallin 2017).</b><br><b>I ciągle się rozwijamy.</b><br><b>Pokazać studentom, że bieruńscy licealiści są lepsi :-) &nbsp;</b><b>BEZCENNE!!!<br></b><b><br></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20171126osiagnieciatallin\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/wiktoria-wiedenska34\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/20170507lego-kopia\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.facebook.com/szkolabl/videos/221816538330248/\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://www.lobierun.edu.pl/robotyka\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>  ",
           "_tags": [
             "Theme"
