@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -599,11 +599,11 @@
           "title6": "Klasa MAT-GEO-ANG",
           "subtitle6": "(mat-geo-ang)",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page2.html#header1-13\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page3.html#header1-14\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page4.html#header1-15\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page5.html#header1-16\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"page8.html#gallery4-2h\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page2.html#header1-13\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page3.html#header1-14\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page4.html#header1-15\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page5.html#header1-16\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page8.html#gallery4-2h\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
@@ -681,7 +681,7 @@
           },
           "title": "PRACOWNIA 3D",
           "text": "Jest to unikalna w skali Polski sala dydaktyczna w której odbywają się zajęcia z wykorzystaniem technologii 3D: projektora multimedialnego 3D, mikroskopów, kamer i drukarki. Możliwość obserwacji doświadczeń i zjawisk przyrodniczych w tej technologii daje niezapomniane wrażenie i spełnia najwyższe oczekiwania dydaktyczne.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page9.html#gallery2-32\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page9.html#gallery2-32\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -742,7 +742,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page7.html#gallery2-2y\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page7.html#gallery2-2y\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-26",
           "_styles": {
@@ -796,7 +796,7 @@
           },
           "title": "KLINIKA ORTOPEDII \"GALEN\"&nbsp;",
           "text": "W ramach współpracy z Kliniką „GALEN” w Bieruniu uczestniczymy w zajęciach w gabinetach lekarskich, zabiegowych i na oddziałach szpitalnych. Poznajemy obsługę profesjonalnego sprzętu medycznego oraz mamy możliwość asystowania w prawdziwych zabiegach na sali operacyjnej..",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page10.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -857,7 +857,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page6.html#header1-1d\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page6.html#header1-1d\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-19",
           "_styles": {
@@ -911,7 +911,7 @@
           },
           "title": "LEGO MINDSTORM",
           "text": "Jesteśmy jednymi z najlepszych w Polsce w te klocki. Zdobyliśmy już ogrom tytułów, także międzynarodowych. Może chcesz pomajstrować z nami? Poznaj szczegóły! Zapraszamy!",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -972,7 +972,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/groups/694474070583015/\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/groups/694474070583015/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1g",
           "_styles": {
@@ -1026,7 +1026,7 @@
           },
           "title": "ZAPLECZE SPORTOWE",
           "text": "Nawet zapaleni sportowcy znajdą coś dla siebie! Do ich dyspozycji oddajemy orlik, boisko wielofunkcyjne oraz siłownię na wolnym powietrzu!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.lobierun.edu.pl/orlik\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.lobierun.edu.pl/orlik\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_tags": [
             "Theme"
           ],
@@ -1087,7 +1087,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.lobierun.edu.pl/20180110wszkoledziotwart\" data-toolbar=\"-mbrBtnMove\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://www.lobierun.edu.pl/20180110wszkoledziotwart\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2l",
           "_styles": {
@@ -1117,7 +1117,7 @@
             }
           },
           "text1": "<strong>Adres:</strong><br>Liceum Ogólnokształcące im. Powstańców Śląskich<br>ul. Licealna 17<br>43-150 Bieruń<br><br><br>\n<strong>Kontakt:</strong><br>\nemail: rjk@neostrada.pl<br>\ntel/fax: 32 216 40 60<br>\nwww: lobierun.edu.pl",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Linki:</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/sulobierun/\">Strona samorządu szkolnego</a></li><li><a class=\"text-white\" href=\"page6.html#gallery1-1e\">Materiały fimowe</a></li><li><a class=\"text-white\" href=\"https://www.youtube.com/channel/UCXmy_ZEQln43zxICVJOFWNg\">eLO Bieruń TV</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Linki:</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/sulobierun/\" target=\"_blank\">Strona samorządu szkolnego</a></li><li><a class=\"text-white\" href=\"page6.html#gallery1-1e\" target=\"_blank\">Materiały fimowe</a></li><li><a class=\"text-white\" href=\"https://www.youtube.com/channel/UCXmy_ZEQln43zxICVJOFWNg\" target=\"_blank\">eLO Bieruń TV</a></li></ul>",
           "_tags": [
             "Theme"
           ],
