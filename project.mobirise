@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -32,7 +32,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 128,
-    "versionPublish": "4.6.5",
+    "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -2387,6 +2387,28 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "alt": "",
                 "caption": "MATFIZINF LO Bieruń",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-9-54-3-501234.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=5dkF2hEsVpI",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "Święto szkoły w Świętego Mikołaja 2017",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-6-9-54-54-309864.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=vxZPcSlAbVA&feature=youtu.be",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "Licealny St Patrick Day 2018",
                 "active": true
               }
             ]
