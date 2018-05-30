@@ -2409,6 +2409,17 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "alt": "",
                 "caption": "Licealny St Patrick Day 2018",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-4-3-8-20-26-272187.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/g30JCcqixHE",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "TYLKO U NAS - OFERTA EDUKACYJNA LO BIERUŃ 2018",
                 "active": true
               }
             ]
