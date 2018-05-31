@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page13.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -3746,7 +3746,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<i>Każdy ma swoją armatę w życiu. Myślę, że każda z nich zaczyna toczyć się za nami w szkole. </i><br><i>To, czego uczymy się, żeby tylko zdać, bo trzeba, bo tak - może nam się odpłacić megasuperileśtamkrotnie, jeśli tylko włożymy w to trochę serca i chęci.</i>",
+          "title": "<i>Każdy ma swoją armatę w życiu. </i><i>Myślę, że każda z nich zaczyna toczyć się za nami w szkole. </i><br><i>To, czego uczymy się, żeby tylko zdać, bo trzeba, bo tak&nbsp;</i><i>może nam się odpłacić megasuperileśtamkrotnie, </i><br><i>jeśli tylko włożymy w to trochę serca i chęci.</i>",
           "meta": "Monika Bałdyga ,&nbsp;studentka filologii rosyjskiej,&nbsp;absolwentka LO Bieruń",
           "_tags": [
             "Motywy"
@@ -3777,7 +3777,7 @@
         {
           "_inherit": "gallery1",
           "_params": {
-            "showBullets": false,
+            "showBullets": true,
             "fullWidth": false,
             "spacing": 0,
             "paddingTop": 4,
@@ -3827,6 +3827,50 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/beznazwy-2-2000x1129.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/beznazwy-2-2000x1129-800x452.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1050951-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050951-1-2000x1500-800x557.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5520-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5520-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5536-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5536-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/p1060434-4-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1060434-4-2000x1500-800x551.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
