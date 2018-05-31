@@ -560,7 +560,7 @@ h6,
 #msg-box5-y H3 {
   text-align: center;
 }
-#msg-box4-1g H3 {
+#msg-box4-3v H3 {
   text-align: center;
 }
 #msg-box5-1j H3 {
@@ -1341,4 +1341,88 @@ h6,
 #header3-3e .mbr-section-title,
 #header3-3e .mbr-section-subtitle {
   text-align: center;
+}
+
+
+
+#ext_menu-3k .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3k .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3k .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3k .close-icon::before,
+#ext_menu-3k .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3k .link,
+#ext_menu-3k .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3k .link {
+  font-size: 0.75rem;
+}
+#ext_menu-3k .dropdown-item,
+#ext_menu-3k .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-3k .link:hover,
+#ext_menu-3k .dropdown-item:hover,
+#ext_menu-3k .link:focus,
+#ext_menu-3k .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-3k .link[aria-expanded="true"],
+#ext_menu-3k .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-3k .nav-dropdown-sm .link:focus,
+#ext_menu-3k .nav-dropdown-sm .link:hover,
+#ext_menu-3k .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3k .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-3k .navbar,
+#ext_menu-3k .nav-dropdown-sm,
+#ext_menu-3k .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3k .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-3k .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3k .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3k .bg-color.transparent.opened .link:hover,
+#ext_menu-3k .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-3k .link[aria-expanded="true"],
+#ext_menu-3k .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#msg-box8-3q .mbr-section-title,
+#msg-box8-3q p {
+  color: #fff;
+}
+#msg-box8-3q .lead P {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+}
+#header3-3t .mbr-section-title,
+#header3-3t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3t .mbr-section-title I {
+  font-size: 25px;
+  font-family: 'Lora', serif;
+}
+#content1-3r P {
+  color: #000000;
+  font-family: 'Lora', serif;
 }

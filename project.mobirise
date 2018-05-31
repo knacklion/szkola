@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page13.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -16,22 +16,22 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
+        "#232323",
         "#fa2e24",
         "#050e96",
         "#bfcecb",
         "#b60a08",
         "#f2f338",
-        "#f7f264",
-        "#240d59"
+        "#f7f264"
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 128,
+    "uniqCompNum": 141,
     "versionPublish": "4.6.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -949,7 +949,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pexels-photo-169929-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170805-180929-1400x786.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -967,19 +967,19 @@
               "size": 250
             }
           },
-          "title": "FOTOKLUB \"POZYTYW\"",
-          "text": "<p>Działający przy naszej szkole fotoklub \"Pozytyw\" pozwoli realizować się każdemu zapalonemu miłośnikowi filmu i fotografii. Tylko u nas najlepsze ujęcia – przekonaj się sam!</p>",
+          "title": "JĘZYK ROSYJSKI<br>",
+          "text": "<p>Każdy ma swoją armatę w życiu. Myślę, że każda z nich zaczyna toczyć się za nami w szkole. To, czego uczymy się, żeby tylko zdać, bo trzeba, bo tak - może nam się odpłacić megasuperileśtamkrotnie, jeśli tylko włożymy w to trochę serca i chęci. Oczywiście każdemu polecam rosyjski, bo jest najlepszy! (Monika Bałdyga)</p>",
           "_tags": [
-            "Theme"
+            "Motywy"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/groups/694474070583015/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ZOBACZ</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-1g",
           "_styles": {
             "H3": {
               "text-align": "center"
             }
-          }
+          },
+          "_anchor": "msg-box4-3v"
         },
         {
           "_params": {
@@ -1150,7 +1150,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Politechniczna",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1384,7 +1384,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Przyrodnicza",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1618,7 +1618,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Akademicka",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1852,7 +1852,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Klasa Humanistyczna",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2438,7 +2438,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Klasa społeczna",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -3222,47 +3222,25 @@
             "images": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/11-1-800x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/11-1-800x600-781x561.jpg",
+                "videoUrl": "",
+                "image": "@PROJECT_PATH@/assets/images/img-20170805-213914-2000x1123.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170805-213914-2000x1123-800x449.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/15-1-800x521.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15-1-800x521-735x520.jpg",
+                "videoUrl": "",
+                "image": "@PROJECT_PATH@/assets/images/img-20170527-wa0001-2000x3562.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170527-wa0001-2000x3562-800x1425.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/02-4-800x450.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/02-4-800x450-602x425.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/galen-1-800x535.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/galen-1-800x535-755x529.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
               }
             ]
           },
@@ -3616,6 +3594,252 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3f"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "rosyjski",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-w\">STRONA GŁÓWNA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">KLASY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html#header1-13\" target=\"_blank\">Politechniczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" target=\"_blank\">Przyrodnicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\" target=\"_blank\">Akademicka</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\" target=\"_blank\">Humanistyczna</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page8.html#header1-1l\" aria-expanded=\"false\">Społeczna</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">NASZA SZKOŁA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html#header1-1d\" target=\"_blank\">FILMY</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\" aria-expanded=\"false\" target=\"_blank\">LEGO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html#gallery2-32\" aria-expanded=\"false\" target=\"_blank\">PRACOWNIA 3D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\" target=\"_blank\">KLINIKA GALEN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html#gallery2-2y\" aria-expanded=\"false\" target=\"_blank\">EEG BIOFEDBACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.lobierun.edu.pl/orlik\" aria-expanded=\"false\" target=\"_blank\">ORLIK</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://slaskie.edu.com.pl\" target=\"_blank\">REKRUTACJA ELEKTRONICZNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page12.html#header3-3e\" target=\"_blank\">PROCEDURA REKRUTACYJNA<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-na-10-stycznia-cz.1-114x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://lobierun.edu.pl\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Liceum Ogólnokształcące<br>im. Powstańców Śląskich<br> w Bieruniu<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/kreml-nigt2-sm-3-1400x504.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br>OD &nbsp;ARMATY &nbsp;DO &nbsp;E-SPORTU&nbsp;<br>z &nbsp;językiem &nbsp;rosyjskim",
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title I": {
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>Każdy ma swoją armatę w życiu. Myślę, że każda z nich zaczyna toczyć się za nami w szkole. </i><br><i>To, czego uczymy się, żeby tylko zdać, bo trzeba, bo tak - może nam się odpłacić megasuperileśtamkrotnie, jeśli tylko włożymy w to trochę serca i chęci.</i>",
+          "meta": "Monika Bałdyga ,&nbsp;studentka filologii rosyjskiej,&nbsp;absolwentka LO Bieruń",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Każdemu etapowi edukacji towarzyszy jedno najważniejsze pytanie ucznia czy studenta - a po co mi to potrzebne. Jest mnóstwo przedmiotów i mnóstwo informacji, co do których nadal mam wątpliwości, ale nauka rosyjskiego nigdy nie miała okazji znaleźć się w tej grupie.\n</i></p><p><i>Zaczęło się od filmu i słowa пушка, no i z biegiem czasu okazuje się, że rosyjski w moim życiu strzela z tej armaty raz po raz z wielkim hukiem.\n</i></p><p><i>Całe liceum i wszystkie sukcesy, kolejne na uczelni, wspaniała epistolarna przyjaźń z Katią, wolontariat misyjny na Białorusi, Mistrzostwa Europy w Piłce Ręcznej…\n</i></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>W kwietniu ubiegłego roku kolejny zupełnie niespodziewany wystrzał - finały regionu CIS w World of Tanks. O, nie, nie, wtedy tak ładnie, składnie, poprawnie bym tego nie nazwała. Raczej - weekend, ktoś w coś gra, potrzebują rosyjskiego - окей, nie pytajcie dwa razy, ja też nie pytam o szczegóły. Zaczęło się od siedzenia w hotelowym lobby i czekania na PROFESJONALNYCH (?!) graczy komputerowych (heroiczne obudzenie jednego z nich okazało się zupełnie niepotrzebne, ale przynajmniej wszyscy uwierzyli, że naprawdę mówię po rosyjsku). Trzy dni po prostu pilnowałam, żeby gracze dojechali na arenę, kręciłam się za moją szefową, zupełnie zagubiona, nie rozumiałam, co oni wszyscy robią i dlaczego byłam im potrzebna. Dowiedziałam się dwa tygodnie później, że to nie ja muszę rozumieć.... i zostałam zabrana do Moskwy na kolejny tajemniczy event e-sportowy z World of Tanks w roli głównej…\n</i></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Teraz jestem po siedmiu eventach, w tym po sławnym wśród wtajemniczonych IEMie. Podobno sprawdzam się jako Team Support, już nie tylko rosyjskojęzycznych graczy. Rosja jako pierwszy kraj uznała cybersport za oficjalną dyscyplinę sportową - przyznam, że też zaczęłam tę sferę uznawać za coś poważnego. Magiczne nazwy LoL, CS, Overwatch, Dota itd. trochę utraciły niezrozumiały czar i teraz wiem, że coś znaczą. \n</i></p><p><i>Mimo że sama nie zaczęłam grać ani nie zamierzam tego robić - cała sfera e-sportu mnie zainteresowała. Wystarczy wspomnieć, że oglądałam każdy mecz drużyny, której supportem byłam w Moskwie (dopóki Wargaming nie zaprzestał organizowania turniejów…), czasem włączam Overwatcha i czekam aż jeden z Rosjan w końcu zagra w podstawowym składzie Philadelphi Fusion, i obowiązkowo ubieram koszulkę i bluzę jednego z graczy Doty w dni, kiedy cała drużyna, w której występuje, gra mecz.\n</i></p><p><i>Ale wróćmy do rosyjskiego. Oprócz poznawania super ludzi (i tych trochę mniej super), nowych miejsc, nabywania nowych umiejętności, znajdowania trochę innych zainteresowań, paru халявных koszulek i akredytacji AAA na największej w Polsce imprezie cybersportu - ten cudowny język, do którego miłością nieprzerwanie w LO Bieruń zaraża p. Tlałka, daje mi raz za razem nowe i szersze spojrzenie na cały nasz świat. Daje spełnienie marzeń (zobaczenie Kremla tylko z taksówki jak dla mnie się liczy, w końcu była to moskiewska taksówka!) i poczucie spełnienia (komu nie byłoby miło usłyszeć, że mówi totalnie bez polskiego akcentu?). Sam rosyjski przez swoje prowadzenie mnie różnymi ścieżkami daje się poznać z nieodkrytych przeze mnie jeszcze stron - ileż to słów można się nauczyć w ciągu kilkunastu minut strimu, ileż jakiegoś kolejnego poziomu mentalności w ciągu kilku dni spędzonych z graczami… A to przecież tylko jeden z armatnich pocisków, wszystkie poprzednie nadal się odbijają i rozsiewają w powietrzu zapach prochu, a cała sterta kolejnych czeka w kolejce do załadowania i siania spustoszenia w szeregu wszystkiego, co nie jest jeszcze z rosyjskim poznane.\n</i></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Każdy ma swoją armatę w życiu. Myślę, że każda z nich zaczyna toczyć się za nami w szkole. To, czego uczymy się, żeby tylko zdać, bo trzeba, bo tak - może nam się odpłacić megasuperileśtamkrotnie, jeśli tylko włożymy w to trochę serca i chęci. Oczywiście każdemu polecam rosyjski, bo jest najlepszy! :)</i></p><p><br></p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3r",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170805-180929-2000x1123.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170805-180929-2000x1123-800x449.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170805-213914-2000x1123.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170805-213914-2000x1123-800x449.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20180513-191456-2000x1123.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180513-191456-2000x1123-800x449.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beznazwy-2-2000x1129.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beznazwy-2-2000x1129-800x452.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-3w"
         }
       ]
     }
